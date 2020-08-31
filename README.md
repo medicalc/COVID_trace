@@ -1,4 +1,4 @@
-# COVID_trace <img src="./img/corona_trace.jpg" align="right" width="200px" />
+# COVID_trace <img src="./img/corona_trace.jpg" align="right" width="180px" />
 
 
 ## Resources for contact tracing
