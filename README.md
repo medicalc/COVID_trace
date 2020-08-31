@@ -3,8 +3,9 @@
 
 ## Resources for contact tracing
 
-- Japan active surveillance guide - [PDF](https://medicalc.github.io/COVID_trace/Active_surveillance_guide_Japan.pdf)
-
+- Japan active surveillance guide (English) - [PDF](https://medicalc.github.io/COVID_trace/Active_surveillance_guide_Japan.pdf)
+- National Response to COVID-19 in the Republic of Korea and Lessons Learned for Other Countries (English) - [PDF](https://medicalc.github.io/COVID_trace/Juhwan_Oh_2020.pdf)
+- Comment la démocratie coréenne a-t-elle dompté Covid-19? (Français) - [PDF](https://medicalc.github.io/COVID_trace/covid-en-coree-du-sud-rapport-amblard-partie-i-200417-diffusion-large.pdf)
 
 ## Recursos para el trazado de contactos
 
