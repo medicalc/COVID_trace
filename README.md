@@ -3,7 +3,7 @@
 
 ## Resources for contact tracing
 
-- Japan active surveillance guide - [Link](https://medicalc.github.io/COVID_trace/Active_surveillance_guide_Japan.pdf)
+- Japan active surveillance guide - [PDF](https://medicalc.github.io/COVID_trace/Active_surveillance_guide_Japan.pdf)
 
 
 ## Recursos para el trazado de contactos
