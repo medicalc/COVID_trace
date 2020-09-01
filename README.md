@@ -10,3 +10,5 @@
 ## Recursos para el trazado de contactos
 
 - Guía para la vigilancia activa de contactos de Japón (en Español) - [PDF](https://medicalc.github.io/COVID_trace/Vigilancia_epidemiologica_activa_Japon.pdf) - [Word](https://medicalc.github.io/COVID_trace/Vigilancia_epidemiologica_activa_Japon.docx)
+
+- ¿Cómo dominó la democracia coreana al Covid-19? Análisis y narrativa - Pendiente traducción al Español)
